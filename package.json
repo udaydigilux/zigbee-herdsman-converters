@@ -1,5 +1,5 @@
 {
-    "name": "zigbee-herdsman-converters",
+    "name": "@udaydigilux/zigbee-herdsman-converters",
     "version": "20.32.0",
     "description": "Collection of device converters to be used with zigbee-herdsman",
     "main": "index.js",
@@ -83,5 +83,8 @@
             "test/",
             "src/"
         ]
+    },
+    "directories": {
+        "test": "test"
     }
 }
